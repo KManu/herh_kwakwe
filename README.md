@@ -1,7 +1,7 @@
 # herh_kwakwe
 Herh Kwakwe Stop!
 
-This is a simple website project to simulate a multi user robbery alarm system. 
+This is a simple website project to simulate a multi user, neighbourhood/community robbery alarm system. Or actually make one. Let's see what happens. 
 
 Specifications
 ---------------------
