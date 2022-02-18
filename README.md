@@ -18,7 +18,7 @@ Suppose you have something in mind you want to add to this.
 
 1. Clone the repository on your PC. Make sure you're on the master branch. If you already have the repo, do a git pull to get the latest version of the master branch. 
 2. Do a git branch to create your own branch to start working. Give your branch a name that describes the person working on it, as well as the work being done on the branch.
-3. When you finish, upload your branch by running git pull origin <YOUR_BRANCH_NAME_HERE>
+3. When you finish, upload your branch by running git push origin <YOUR_BRANCH_NAME_HERE>
 4. Create a pull request for your branch. To destination branch should be master. 
 5. Wait for your changes to be added to the master branch.
 6. Profit
